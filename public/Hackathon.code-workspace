@@ -1,0 +1,15 @@
+//hackathon
+{
+	"folders": [
+		{
+			"path": "../../../Hackathon"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../src"
+		}
+	],
+	"settings": {}
+}
